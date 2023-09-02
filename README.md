@@ -2,16 +2,16 @@
 
 Chào mừng bạn đến với trang chính thức của HMinhOS. Nơi đây sẽ cập nhật các phiên bản của HMinhOS, bao gồm cả file Chính thức hay Thử nghiệm.
 
-#FAQ
+# FAQ
 
-##HMinhOS là gì?
+## HMinhOS là gì?
 
 -> Đây là một dự án để giúp tối ưu hóa Windows, giúp Windows mượt mà, hoạt động trơn tru hơn.
 
-##HMinhOS loại bỏ những cái gì?
+## HMinhOS loại bỏ những cái gì?
 
 -> Vui lòng đọc trong file "Tính năng bị xóa'.
 
-##Làm thế nào để cài HMinhOS
+## Làm thế nào để cài HMinhOS
 
 -> Vui lòng đọc trong file "Hướng dẫn cài đặt"
