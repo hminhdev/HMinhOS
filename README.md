@@ -10,8 +10,8 @@ Chào mừng bạn đến với trang chính thức của HMinhOS. Nơi đây s�
 
 ## HMinhOS loại bỏ những cái gì?
 
--> Vui lòng đọc trong file "Tính năng bị xóa'.
+-> Vui lòng đọc trong mục Các tính năng bị xoá của từng phiên bản
 
 ## Làm thế nào để cài HMinhOS
 
--> Vui lòng đọc trong file "Hướng dẫn cài đặt"
+-> Coming soon...
