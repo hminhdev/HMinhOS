@@ -15,3 +15,7 @@ Chào mừng bạn đến với trang chính thức của HMinhOS. Nơi đây s�
 ## Làm thế nào để cài HMinhOS
 
 -> Coming soon...
+
+[Dự án đã bị huỷ bỏ, lý do: Là **BƯỚC ĐỆM** cho hệ điều hành hMos, cho một trải nghiệm Windows tốt hơn]
+
+[The project is canceled, reason: Is the **FIRST STEP** for the new OS hMos, aims for a better Windows experience.]
